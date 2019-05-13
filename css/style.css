@@ -1,0 +1,41 @@
+.color.red:before {
+      background-color: red;
+    }
+
+    .upper {
+      text-transform: uppercase;
+    }
+
+    .avatan-page {
+      position: absolute;
+      top: 6%;
+      width: 85%;
+      object-fit: contain;
+      border: 20px solid black;
+      border-color: midnightblue;
+    }
+
+
+    .next:hover {
+      opacity: 0;
+    }
+
+    .rectangle {
+      position: absolute;
+      top: 30%;
+      width: 90%;
+      height: 75%;
+      max-height: 180px;
+      background: midnightblue;
+    }
+
+    .statham {
+      width: 100%;
+      height: 100%;
+    }
+
+    .avatar-wrapper{
+      min-height: 250px;
+      max-width: 400px;
+      align-content: center;
+    }
